@@ -1,4 +1,4 @@
-# 📊 ISFPP 2025 – Reporte Académico para una Facultad
+# 📊 ISFPP 2025 – Reporte Académico para la Facultad
 
 Este proyecto corresponde a la **Instancia Supervisada de Formación Profesional (ISFPP) 2025** de la carrera **Analista Programador Universitario**.  
 El objetivo es desarrollar un **sistema de indicadores de gestión académica**, basado en los Informes Sintéticos de Departamentos, Informes de Cátedra y Encuestas de Estudiantes.
