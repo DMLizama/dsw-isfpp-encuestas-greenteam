@@ -11,7 +11,6 @@ Aplicación web construida con **React + TypeScript**, parte del sistema de indi
 - [React](https://react.dev/) (biblioteca principal)
 - [TypeScript](https://www.typescriptlang.org/) (tipado estático)
 - [Vite](https://vitejs.dev/) (build tool y dev server)
-- [TailwindCSS](https://tailwindcss.com/) (opcional, si se incluye para estilos)
 
 ---
 
