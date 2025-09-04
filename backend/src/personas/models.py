@@ -1,7 +1,7 @@
 from typing import Optional, List
 from sqlalchemy import Integer, String
 from sqlalchemy.orm import Mapped, mapped_column
-from models import ModeloBase
+from src.models import ModeloBase
 
 
 class Persona(ModeloBase):

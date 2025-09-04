@@ -1,7 +1,7 @@
 from fastapi import APIRouter, Depends
 from sqlalchemy.orm import Session
-from database import get_db
-from personas import schemas, services
+from src.database import get_db
+from src.personas import schemas, services
 
 router = APIRouter(prefix="/personas", tags=["personas"])
 

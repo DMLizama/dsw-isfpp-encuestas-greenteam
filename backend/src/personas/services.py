@@ -1,8 +1,8 @@
 from typing import List
 from sqlalchemy import delete, select, update
 from sqlalchemy.orm import Session
-from personas.models import Persona
-from personas import schemas, exceptions
+from src.personas.models import Persona
+from src.personas import schemas, exceptions
 
 # operaciones CRUD para Personas
 

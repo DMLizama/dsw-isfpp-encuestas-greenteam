@@ -2,11 +2,11 @@ import os
 from contextlib import asynccontextmanager
 from dotenv import load_dotenv
 from fastapi import FastAPI
-from database import engine
-from models import ModeloBase
+from src.database import engine
+from src.models import ModeloBase
 
 # importamos los routers desde nuestros modulos
-from personas.router import router as personas_router
+from src.personas.router import router as personas_router
 from fastapi.middleware.cors import CORSMiddleware
 
 load_dotenv()
